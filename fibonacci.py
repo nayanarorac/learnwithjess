@@ -1,5 +1,5 @@
 def fibonaccinumbers(n):
-    if (n == 1 or n== 2):
+    if (n == 1 or n == 2):
         fn = 1
     else:
         x = fibonaccinumbers(n-1)
