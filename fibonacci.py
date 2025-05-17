@@ -8,5 +8,5 @@ def fibonaccinumbers(n):
         fn = x + y
     return fn
    
-fn = fibonaccinumbers(15)
-print(fn)
+fibn = fibonaccinumbers(15)
+print(fibn)
